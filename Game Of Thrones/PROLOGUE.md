@@ -14,7 +14,7 @@
 
 > "The wildlings are dead"
 
-这里的野人都已经死了
+"这里的野人都已经死了"
 
 > "Do the dead frighten you?" Ser Waymar Royce asked with just the hint of a smile.
 
