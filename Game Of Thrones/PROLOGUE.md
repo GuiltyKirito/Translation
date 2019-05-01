@@ -1,10 +1,3 @@
-# 人物名称介绍
-
-| 英文名           |     中文名     | 备注 |
-| ---------------- | :------------: | ---- |
-| Gared            |     格雷德     | ——   |
-| Ser Waymar Royce | 西尔·威玛·罗西 | ——   |
-| Will             |      威尔      | ——   |
 
 # 第一章 《序幕》
 
@@ -48,6 +41,6 @@
 
 西尔漫不经心的扫了一眼天空，"每天的这个点不都这样的吗.黑夜使你害怕了吗 格雷德?"
 
-> Will could see the tightness around Gared's mouth, the barely suppressed anger in his eyes under the thick black hood of his cloak. Gared had spent forty years in the Night's Watch,man and boy, andhe was not accutomed to begin made light of . yet it was more than that.Under the wounded pride,Will could sense something else in the older man.You could taste it; a nervous tension that cameperilous close to fear
+> Will could see the tightness around Gared's mouth, the barely suppressed anger in his eyes under the thick black hood of his cloak. Gared had spent forty years in the Night's Watch,man and boy, and he was not accustomed to begin made light of . yet it was more than that.Under the wounded pride,Will could sense something else in the older man.You could taste it; a nervous tension that cameperilous close to fear
 
-威尔或许看到了格雷德紧闭着的嘴，他深吸一口气压制住了内心的怒火
+威尔看到了格雷德紧闭着的嘴，他深吸一口气压制住了内心的怒火,但是在他那厚重的黑色兜帽下，还是能看到那愤怒的眼神。格雷德在暗夜守望者里待了四十年，无论是男人还是小孩
