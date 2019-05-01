@@ -49,3 +49,5 @@
 西尔漫不经心的扫了一眼天空，"每天的这个点不都这样的吗.黑夜使你害怕了吗 格雷德?"
 
 > Will could see the tightness around Gared's mouth, the barely suppressed anger in his eyes under the thick black hood of his cloak. Gared had spent forty years in the Night's Watch,man and boy, andhe was not accutomed to begin made light of . yet it was more than that.Under the wounded pride,Will could sense something else in the older man.You could taste it; a nervous tension that cameperilous close to fear
+
+威尔或许看到了格雷德紧闭着的嘴，他深吸一口气压制住了内心的怒火
