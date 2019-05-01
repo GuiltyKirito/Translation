@@ -20,7 +20,7 @@
 
 "你被眼前的死人吓到了吗？"西尔带着一丝笑容问道
 
-> Gared did not rise to the bait. He was an old man, past fifty,and he had seen the lordlings come andgo. "Dead is dead" he said. "We have no business with the dead"
+> Gared did not rise to the bait. He was an old man, past fifty,and he had seen the lordlings come andgo. "Dead is dead " he said. "We have no business with the dead"
 
 格雷德并没有在意，他是一个年过半百,老人，而且他曾经看到过。"死了就是死了"，格雷德说道."和我们并没有关系"
 
