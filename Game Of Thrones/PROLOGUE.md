@@ -33,7 +33,7 @@
 
 > "My wet nurse said the same thing,Will" Royce replied. "Never believe anything you hear at a woman's tit. There are things to be learned even from the dead." His voice echoed, too loud in the twilit forest
 
-"我湿润的鼻子诉说着同样的事情，威尔"罗西答复到."永远不要相信你从女人那里听说到的任何事情.即便是已经死了的人,也是有可以学习的东西",他的声音有点大，回响在整个暮色森林
+"我奶妈诉说着同样的事情，威尔"罗西答复道."永远不要相信你从女人那里听说到的任何事情.即便是已经死了的人,也是有可以学习的东西",他的声音有点大，回响在整个暮色森林
 
 > "We have a long ride before us" Gared pointed out . "Eight days,maybe nine. And night isfalling"
 
@@ -43,8 +43,8 @@
 
 西尔漫不经心的扫了一眼天空，"每天的这个点不都这样的吗.黑夜使你害怕了吗 格雷德?"
 
-> Will could see the tightness around Gared's mouth, the barely suppressed anger in his eyes under the thick black hood of his cloak. Gared had spent forty years in the Night's Watch,man and boy, and he was not accustomed to begin made light of . yet it was more than that.Under the wounded pride,Will could sense something else in the older man.You could taste it; a nervous tension that cameperilous close to fear
+> Will could see the tightness around Gared's mouth, the barely suppressed anger in his eyes under the thick black hood of his cloak. Gared had spent forty years in the Night's Watch,man and boy, and he was not accustomed to begin made light of . yet it was more than that.Under the wounded pride,Will could sense something else in the older man.You could taste it; a nervous tension that came perilous close to fear
 
-威尔看到了格雷德紧闭着的嘴，他深吸一口气压制住了内心的怒火,但是在他那厚重的黑色兜帽下，还是能看到那愤怒的眼神。格雷德在暗夜守望者里待了四十年，无论是男人还是小孩
+威尔看到了格雷德紧闭着的嘴，他深吸一口气压制住了内心的怒火,但是在他那厚重的黑色兜帽下，还是能看到那愤怒的眼神。格雷德在守夜人里生活了四十余年，从一个小孩成长到了一个男人。而且他不是惯常的开始明白了。突然，他是意识到了什么。在多次经历生死边缘的感觉告诉他。威尔可以感觉到一些除了这个老人之外的东西。你可以尝一下；一个紧张和危险正在靠近
 
 [首页](./README.md)
