@@ -43,8 +43,14 @@
 
 西尔漫不经心的扫了一眼天空，"每天的这个点不都这样的吗.黑夜使你害怕了吗 格雷德?"
 
-> Will could see the tightness around Gared's mouth, the barely suppressed anger in his eyes under the thick black hood of his cloak. Gared had spent forty years in the Night's Watch,man and boy, and he was not accustomed to begin made light of . yet it was more than that.Under the wounded pride,Will could sense something else in the older man.You could taste it; a nervous tension that came perilous close to fear
+> Will could see the tightness around Gared's mouth, the barely suppressed anger in his eyes under the thick black hood of his cloak. Gared had spent forty years in the Night's Watch,man and boy, and he was not accustomed to begin made light of. yet it was more than that.Under the wounded pride,Will could sense something else in the older man.You could taste it; a nervous tension that came perilous close to fear.
 
-威尔看到了格雷德紧闭着的嘴，他深吸一口气压制住了内心的怒火,但是在他那厚重的黑色兜帽下，还是能看到那愤怒的眼神。格雷德在守夜人里生活了四十余年，从一个小孩成长到了一个男人。而且他不是惯常的开始明白了。突然，他是意识到了什么。在多次经历生死边缘的感觉告诉他。威尔可以感觉到一些除了这个老人之外的东西。你可以尝一下；一个紧张和危险正在靠近
+威尔看到了格雷德紧闭着的嘴，他深吸一口气压制住了内心的怒火,但是在他那厚重的黑色兜帽下，还是能看到那愤怒的眼神。格雷德在守夜人里生活了四十余年，从一个懵懂的小孩成长到了一个明白世间道理的男人。然而，在多次经历生死下，更是不止于此。威尔可以感觉到这个老人身上其他的一些东西。你仿佛可以体会或者说感受品尝到到一种危险和紧张逼近的感觉。
+
+> Will shared his unease. He had been four years on the Wall. The first time he had been sent beyond, all the old stories had come rushing back,and his bowels had turned to water. He had laughed about it afterward. He was a veteran of a hundred rangings by now, and the endless drak wilderness that the southron called the haunted forest had no more terrors for him.
+
+威尔诉说着他的不安。 他在城里已经待了四年了，他第一次被指派到外面执行任务的时候，被那些古老的故事吓得赶紧回来，还吓得恶心呕吐。之后他对这件事都会一笑了之.
+
+> Until tonight. Something was different tonight. There was an edge to this darkness that made his hackles rise. Nine days they had been riding, north and northwest and then north again, farther and farther from the wall , hard on the track of a band of Widling raiders. Each day had been worse than the day that had come before it . Today was the worst of all. A cold wind was blowing out of the north, and it made the trees rustle like living things. All day, Will had felt as though something were watching him, something cold and implacable that loved him not. Gared had felt it too. Will wanted nothing so much as to ride hellbent for the safety of the Wall, but that was not a feeling to share with your commander.
 
 [首页](./README.md)
