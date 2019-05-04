@@ -45,7 +45,7 @@
 
 > Will could see the tightness around Gared's mouth, the barely suppressed anger in his eyes under the thick black hood of his cloak. Gared had spent forty years in the Night's Watch,man and boy, and he was not accustomed to begin made light of. yet it was more than that.Under the wounded pride,Will could sense something else in the older man.You could taste it; a nervous tension that came perilous close to fear.
 
-威尔看到了格雷德紧闭着的嘴，他深吸一口气压制住了内心的怒火,但是在他那厚重的黑色兜帽下，还是能看到那愤怒的眼神。格雷德在守夜人里生活了四十余年，从一个懵懂的小孩成长到了一个明白世间道理的男人。然而，在多次经历生死下，更是不止于此。威尔可以感觉到这个老人身上其他的一些东西。你仿佛可以体会或者说感受品尝到到一种危险和紧张逼近的感觉。
+威尔看到了格雷德紧闭着的嘴，他深吸一口气压制住了内心的怒火,但是在他那厚重的黑色兜帽下，还是能看到那愤怒的眼神。格雷德在守夜人里生活了四十余年，从一个懵懂的小孩成长到了一个明白世间道理的男人。然而，在多次经历生死下，更是不止于此。威尔可以感觉到这个老人身上其他的一些东西。你仿佛可以体会或者说感受品尝到到一种紧张和危险逼近的感觉。
 
 > Will shared his unease. He had been four years on the Wall. The first time he had been sent beyond, all the old stories had come rushing back,and his bowels had turned to water. He had laughed about it afterward. He was a veteran of a hundred rangings by now, and the endless drak wilderness that the southron called the haunted forest had no more terrors for him.
 
