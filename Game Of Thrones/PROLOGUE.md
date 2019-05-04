@@ -51,8 +51,8 @@
 
 威尔诉说着他的不安。 他在城里已经待了四年了，他第一次被指派到外面执行任务的时候，被那些古老的故事吓得赶紧回来，还吓得恶心呕吐。自此之后他拿这件事自嘲.时至今日，他已经是一个百人团的将军了，而且在那无尽的黑暗荒野中，南方人所谓的闹鬼的森林对他来说也不是多么的恐怖。
 
-> Until tonight. Something was different tonight. There was an edge to this darkness that made his hackles rise. Nine days they had been riding, north and northwest and then north again, farther and farther from the wall , hard on the track of a band of Widling raiders. Each day had been worse than the day that had come before it . Today was the worst of all. A cold wind was blowing out of the north, and it made the trees rustle like living things. All day, Will had felt as though something were watching him, something cold and implacable that loved him not. Gared had felt it too. Will wanted nothing so much as to ride hellbent for the safety of the Wall, but that was not a feeling to share with your commander.
+> Until tonight. Something was different tonight. There was an edge to this darkness that made his hackles rise. Nine days they had been riding, north and northwest and then north again, farther and farther from the wall , hard on the track of a band of Wildling raiders. Each day had been worse than the day that had come before it . Today was the worst of all. A cold wind was blowing out of the north, and it made the trees rustle like living things. All day, Will had felt as though something were watching him, something cold and implacable that loved him not. Gared had felt it too. Will wanted nothing so much as to ride hellbent for the safety of the Wall, but that was not a feeling to share with your commander.
 
-<!-- 直至今夜，某些东西和往常的不太一样。这里曾是黑暗的边缘地带，这里 -->
+到了今晚，总觉得某些东西和往常的不太一样。这里曾是黑暗的边缘地带，他们制造了他的乱砍上升.他们已经走了九天了，越来越往西北部走了，理城堡也越来越远了，努力的寻着野人的踪迹，条件一天比一天差。今天更是糟糕透了。北风呼呼的吹着，树木也沙沙作响，像是有什么东西藏在哪里。这一整天威尔总感觉都什么东西在注视着他，某些冷酷无情不爱护他的东西。格雷德也有这种感觉。威尔没什么想要的，后面就是安全抵达城堡的路了，但是他还是感觉要去和指挥官知会一声。
 
 [首页](./README.md)
