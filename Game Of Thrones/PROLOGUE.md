@@ -49,8 +49,10 @@
 
 > Will shared his unease. He had been four years on the Wall. The first time he had been sent beyond, all the old stories had come rushing back,and his bowels had turned to water. He had laughed about it afterward. He was a veteran of a hundred rangings by now, and the endless drak wilderness that the southron called the haunted forest had no more terrors for him.
 
-威尔诉说着他的不安。 他在城里已经待了四年了，他第一次被指派到外面执行任务的时候，被那些古老的故事吓得赶紧回来，还吓得恶心呕吐。之后他对这件事都会一笑了之.
+威尔诉说着他的不安。 他在城里已经待了四年了，他第一次被指派到外面执行任务的时候，被那些古老的故事吓得赶紧回来，还吓得恶心呕吐。自此之后他拿这件事自嘲.时至今日，他已经是一个百人团的将军了，而且在那无尽的黑暗荒野中，南方人所谓的闹鬼的森林对他来说也不是多么的恐怖。
 
 > Until tonight. Something was different tonight. There was an edge to this darkness that made his hackles rise. Nine days they had been riding, north and northwest and then north again, farther and farther from the wall , hard on the track of a band of Widling raiders. Each day had been worse than the day that had come before it . Today was the worst of all. A cold wind was blowing out of the north, and it made the trees rustle like living things. All day, Will had felt as though something were watching him, something cold and implacable that loved him not. Gared had felt it too. Will wanted nothing so much as to ride hellbent for the safety of the Wall, but that was not a feeling to share with your commander.
+
+<!-- 直至今夜，某些东西和往常的不太一样。这里曾是黑暗的边缘地带，这里 -->
 
 [首页](./README.md)
