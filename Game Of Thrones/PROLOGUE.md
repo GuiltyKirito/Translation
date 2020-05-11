@@ -37,7 +37,7 @@
 
 > "We have a long ride before us" Gared pointed out . "Eight days,maybe nine. And night isfalling"
 
-"还有很漫长的路等着我们"格雷德打断了争吵。"或许是八天，也可能是九天，而且夜幕正在降临"
+"还有很漫长的路等着我们"格雷德打断了争吵。"或许是八天，也可能是九天，眼看着夜幕降了下来"
 
 > Ser Waymar Royce glanced at the sky with disnterest. "It does that every day about this time .Are you unmanned by the dark Gared？"
 
@@ -53,6 +53,14 @@
 
 > Until tonight. Something was different tonight. There was an edge to this darkness that made his hackles rise. Nine days they had been riding, north and northwest and then north again, farther and farther from the wall , hard on the track of a band of Wildling raiders. Each day had been worse than the day that had come before it . Today was the worst of all. A cold wind was blowing out of the north, and it made the trees rustle like living things. All day, Will had felt as though something were watching him, something cold and implacable that loved him not. Gared had felt it too. Will wanted nothing so much as to ride hellbent for the safety of the Wall, but that was not a feeling to share with your commander.
 
-到了今晚，今晚有点不太一样。这里曾是黑暗的边缘地带，对他是有一定的优势的.他们已经骑行了九天了，越来越往北边，西北边境走了，距离城堡也越来越远了，努力的追寻着野人侵略过的踪迹，条件一天比一天差。今天更是糟糕透了。北风呼呼的吹着，树木也沙沙作响，像是有什么东西藏在哪里。这一整天威尔总感觉都什么东西在注视着他，某些冷酷无情不爱护他的东西。格雷德也有这种感觉。为了背后那城堡的安全，威尔什么也不想要，但是那并不是要和你的指挥官分享。
+直到今晚，今晚有点不太一样。这里曾是黑暗的边缘地带，对他是有一定的优势的.他们已经骑行了九天了，越来越往北边，西北边境走了，距离城堡也越来越远了，努力的追寻着野人侵略过的踪迹，条件一天比一天差。今天更是糟糕透了。北风呼呼的吹着，树木也沙沙作响，像是有什么东西藏在哪里。这一整天威尔总感觉都什么东西在注视着他，某些冷酷无情不爱护他的东西。格雷德也有这种感觉。为了背后那城堡的安全，威尔什么也不想要，但是那并不是要和你的指挥官分享。
 
-[首页](./README.md)
+> Especially not a commander like this one.
+
+特别是，没有一个指挥官会喜欢听到这样的消息。
+
+> Ser Waymar Royce was the youngest son of an ancient house with too many heirs. He was a handsome youth of eighteen, grey eyed and graceful and slender as a knife. Mounted on his huge black destrier, the knight towered above Will and Gared on their smaller garrons. He wore blackleather boots, black woolen pants, black moleskin glovesm and a fine suooke coat of gleaming blackrightmial over layers of black wool and boiled leather. Ser waymar had been a Sworn Brother of the Night's Watch for less than half a year, but no one could say he had not prepared for his vocation. Atleast insofar as his wardrobe was concerned.
+
+西尔曾经一个古老家族最年轻的继承人，他曾是个正值18岁的有着灰色的眼睛的帅小伙，一把细长精致的刀佩戴在高大的黑色骏马上，骑士耸立在威尔和格雷德他们的小加龙上
+
+[首页](./README.md)  
